@@ -1,6 +1,6 @@
 # MemTrajR
 
-MemTrajR is an R-based toolkit for membrane domain analysis from 2D trajectory data.
+MemTrajR is an R-based software toolkit for membrane domain analysis from 2D trajectory data.
 
 ## Features
 
