@@ -1,0 +1,20 @@
+Package: MemTrajR
+Title: Quantify Micron-Scale Rigid Domain Dynamics and Interactions
+Version: 0.1.0
+Authors@R: person("Anthony", "Prempeh",
+    role = c("aut", "cre"),
+    email = "anthonynaprempeh@gmail.com",
+    comment = c(ORCID = ""))
+Description: Provides tools for analysing 2D and 3D membrane domain
+    trajectories from single-particle tracking data. Functions cover
+    mean squared displacement (MSD) computation in both Euclidean (2D)
+    and geodesic (3D) geometries, early-time linear and power-law
+    fitting, diffusion coefficient estimation, frame-by-frame geodesic
+    separation analysis, interaction potential estimation via Boltzmann
+    analysis, and mean square separation increment (MSSep) calculation.
+    Designed for micron-scale rigid domain dynamics on spherical vesicles.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+
